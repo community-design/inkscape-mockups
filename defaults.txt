@@ -1,0 +1,33 @@
+= Defaults
+
+There are some annoying defaults in Inkscape that everyone changes on the first
+run. We should identifiy these annoyances and ship patches where we can't upstream.
+
+If we can't upstream it would be nice to have patches in Fedora.
+
+
+== No-brainers
+
+- HSL chooser in Fill and Stroke dialog
+  This should be the default chooser. The others are almost impossible to use
+  for humans in day to day work.
+ 
+- Page shadow
+  Ugly, useless. Enough said.
+
+- Icon set
+  It's pretty bad looking and, because they're SVGs, not pixel aligned.
+
+- Mouse cursors
+  Ugly and pixelated. We should fix this.
+
+- <ADD STUFF HERE>
+
+
+== More contriversial
+
+- Inkscape has a lot of UI chrome. The commands bar can be switched off in
+  authoring applications like Inkscape.
+  
+- Tiny palette
+
