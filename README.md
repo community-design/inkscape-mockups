@@ -1,5 +1,4 @@
-inkscape-mockups
-================
+# Inkscape mockups
 
 This is the place to add Inkscape mockups.
 
