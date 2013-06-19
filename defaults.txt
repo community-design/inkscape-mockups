@@ -1,7 +1,7 @@
 = Defaults
 
 There are some annoying defaults in Inkscape that everyone changes on the first
-run. We should identifiy these annoyances and ship patches where we can't upstream.
+run. We should identify these annoyances and ship patches where we can't upstream.
 
 If we can't upstream it would be nice to have patches in Fedora.
 
@@ -24,7 +24,7 @@ If we can't upstream it would be nice to have patches in Fedora.
 - <ADD STUFF HERE>
 
 
-== More contriversial
+== More controversial
 
 - Inkscape has a lot of UI chrome. The commands bar can be switched off in
   authoring applications like Inkscape.
