@@ -35,10 +35,15 @@ If we can't upstream it would be nice to have patches in Fedora.
 
 == Cross-platform improvements
 
-- While most of use use Inkscape exclusively on Linux, it would benefit
-  the project (and therefore its users and even possibly developers) to
-  polish up the issues on other platforms, specifically OS X (where
-  a lot of designers already exist).
+While most of use use Inkscape exclusively on Linux, it would benefit
+the project (and therefore its users and even possibly developers) to
+polish up the issues on other platforms, specifically OS X (where a lot
+of designers already exist).
+
+(How awesome would it be to have those cheap print shops using Inkscape
+instead of Corel Draw? We could just sent SVGs over instead of crappy
+EPS files.)
+
 
 === OS X issues
 
