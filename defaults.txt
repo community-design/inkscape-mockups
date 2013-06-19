@@ -17,6 +17,7 @@ If we can't upstream it would be nice to have patches in Fedora.
 
 - Icon set
   It's pretty bad looking and, because they're SVGs, not pixel aligned.
+  A symbolic set would look much more professional.
 
 - Mouse cursors
   Ugly and pixelated. We should fix this.
