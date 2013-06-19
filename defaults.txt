@@ -31,3 +31,32 @@ If we can't upstream it would be nice to have patches in Fedora.
   
 - Tiny palette
 
+
+== Cross-platform improvements
+
+- While most of use use Inkscape exclusively on Linux, it would benefit
+  the project (and therefore its users and even possibly developers) to
+  polish up the issues on other platforms, specifically OS X (where
+  a lot of designers already exist).
+
+=== OS X issues
+
+  - The major issue is bad keyboard shortcuts (as on the Mac, it works
+  differently). 
+  
+  - The X11 requirement (although some builds have done away with this).
+
+  - Packaged versions are out of date
+
+  - Not available in the official OS X app store
+
+  - Widgets don't look native (although OS X now looks more like GTK+3)
+
+  - Native dialogs
+
+  - Tablet support
+
+
+=== Windows issues
+
+  ??? (Please add)
