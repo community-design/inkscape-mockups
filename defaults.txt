@@ -30,7 +30,7 @@ If we can't upstream it would be nice to have patches in Fedora.
 - Inkscape has a lot of UI chrome by default. The commands bar can be switched off in
   authoring applications like Inkscape.
   * Snap commands bar (change snapping settings)
-  * General toolbar (save, copy, paste)
+  * Commands bar (save, copy+paste, zoom levels, quicktrigger to other tools)
   * Rulers (coordinates and alignment lines)
   * Status bar (current selected object properties)
   
