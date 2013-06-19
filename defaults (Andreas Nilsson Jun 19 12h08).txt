@@ -1,0 +1,63 @@
+= Defaults
+
+There are some annoying defaults in Inkscape that everyone changes on the first
+run. We should identify these annoyances and ship patches where we can't upstream.
+
+If we can't upstream it would be nice to have patches in Fedora.
+
+
+== No-brainers
+
+- HSL chooser in Fill and Stroke dialog
+  This should be the default chooser. The others are almost impossible to use
+  for humans in day to day work.
+ 
+- Page shadow
+  Ugly, useless. Enough said.
+
+- Icon set
+  It's pretty bad looking and, because they're SVGs, not pixel aligned.
+  A symbolic set would look much more professional.
+
+- Mouse cursors
+  Ugly and pixelated. We should fix this.
+
+- <ADD STUFF HERE>
+
+
+== More controversial
+
+- Inkscape has a lot of UI chrome. The commands bar can be switched off in
+  authoring applications like Inkscape.
+  
+- Tiny palette
+
+
+== Cross-platform improvements
+
+- While most of use use Inkscape exclusively on Linux, it would benefit
+  the project (and therefore its users and even possibly developers) to
+  polish up the issues on other platforms, specifically OS X (where
+  a lot of designers already exist).
+
+=== OS X issues
+
+  - The major issue is bad keyboard shortcuts (as on the Mac, it works
+  differently). 
+  
+  - The X11 requirement (although some builds have done away with this).
+
+  - Packaged versions are out of date
+
+  - Not available in the official OS X app store
+
+  - Native dialogs
+
+  - Tablet support
+
+  - Widgets don't look native (although OS X now looks more like GTK+3)
+
+
+=== Windows issues
+
+  ??? (Please add)
