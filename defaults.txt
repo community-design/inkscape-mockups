@@ -22,6 +22,8 @@ If we can't upstream it would be nice to have patches in Fedora.
 - Mouse cursors
   Ugly and pixelated. We should fix this.
 
+- Fill & Stroke is very wide
+
 - <ADD STUFF HERE>
 
 
