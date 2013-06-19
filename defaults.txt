@@ -50,11 +50,11 @@ If we can't upstream it would be nice to have patches in Fedora.
 
   - Not available in the official OS X app store
 
-  - Widgets don't look native (although OS X now looks more like GTK+3)
-
   - Native dialogs
 
   - Tablet support
+
+  - Widgets don't look native (although OS X now looks more like GTK+3)
 
 
 === Windows issues
